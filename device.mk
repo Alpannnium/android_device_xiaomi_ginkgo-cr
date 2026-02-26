@@ -471,3 +471,5 @@ PRODUCT_BOOT_JARS += \
 # XiaomiParts
 PRODUCT_PACKAGES += \
     XiaomiParts
+
+-include vendor/lineage-priv/keys/keys.mk
